@@ -1,0 +1,18 @@
+header h1 { /* небольшие визуальные настройки для верхнего колонтитула */
+  font-family: sans-serif; /* семейство шрифтов */
+  text-align: center; /* позиционирование текста */
+  font-size: 20px; /* размер шрифта*/
+}
+body { /* небольшие визуальные настройки для основной информации */
+  font-family: sans-serif;
+  font-size: 14px;
+  border: 1px black; /* задание гранницы */
+  border-style: dotted; /* стиль гранницы */
+  margin: 10px 10px 10px 10px; /* поля */
+  padding: 10px 10px 10px 10px; /* отступы */
+  text-align: center;
+}
+h1 { /* дополнительные настройки для заголовков */
+  font-size: 16px;
+  line-height: 1; /* интерлиньяж */
+}
